@@ -1,5 +1,0 @@
-flask
-flask-cors
-groq
-requests
-python-dotenv
